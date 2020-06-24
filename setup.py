@@ -31,7 +31,6 @@ setup(
         "Development Status :: 5 - Production/Stable",
         "Environment :: Console",
         "Intended Audience :: Developers",
-        "License :: OSI Approved :: GNU GPL",
         "Operating System :: OS Independent",
     ],
     long_description=long_description,
